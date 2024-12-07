@@ -6125,3 +6125,55 @@ TypeError: Object of type ImageDescription is not JSON serializable
 2024-12-07 14:25:51,306 - DEBUG - STREAM b'IDAT' 321 56169
 2024-12-07 14:25:51,308 - INFO - Image loaded and displayed successfully
 2024-12-07 14:25:51,315 - INFO - Image converted to bytes successfully
+2024-12-07 14:25:56,533 - INFO - Ollama server is running.
+2024-12-07 14:25:56,595 - INFO - llama3.2-vision model is installed.
+2024-12-07 14:25:57,608 - INFO - Loaded default image from C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:25:57,608 - INFO - File loaded: C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:25:57,609 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-07 14:25:57,609 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-07 14:25:57,609 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-07 14:25:57,610 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-07 14:25:57,610 - DEBUG - STREAM b'tEXt' 91 24
+2024-12-07 14:25:57,610 - DEBUG - STREAM b'eXIf' 127 182
+2024-12-07 14:25:57,611 - DEBUG - STREAM b'IDAT' 321 56169
+2024-12-07 14:25:57,613 - INFO - Image loaded and displayed successfully
+2024-12-07 14:25:57,623 - INFO - Image converted to bytes successfully
+2024-12-07 14:26:02,802 - INFO - Ollama server is running.
+2024-12-07 14:26:02,860 - INFO - llama3.2-vision model is installed.
+2024-12-07 14:26:03,867 - INFO - Loaded default image from C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:03,868 - INFO - File loaded: C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:03,869 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-07 14:26:03,869 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-07 14:26:03,869 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-07 14:26:03,869 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-07 14:26:03,870 - DEBUG - STREAM b'tEXt' 91 24
+2024-12-07 14:26:03,870 - DEBUG - STREAM b'eXIf' 127 182
+2024-12-07 14:26:03,870 - DEBUG - STREAM b'IDAT' 321 56169
+2024-12-07 14:26:03,872 - INFO - Image loaded and displayed successfully
+2024-12-07 14:26:03,881 - INFO - Image converted to bytes successfully
+2024-12-07 14:26:09,041 - INFO - Ollama server is running.
+2024-12-07 14:26:09,108 - INFO - llama3.2-vision model is installed.
+2024-12-07 14:26:10,116 - INFO - Loaded default image from C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:10,116 - INFO - File loaded: C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:10,117 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-07 14:26:10,117 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-07 14:26:10,117 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-07 14:26:10,117 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-07 14:26:10,118 - DEBUG - STREAM b'tEXt' 91 24
+2024-12-07 14:26:10,118 - DEBUG - STREAM b'eXIf' 127 182
+2024-12-07 14:26:10,118 - DEBUG - STREAM b'IDAT' 321 56169
+2024-12-07 14:26:10,120 - INFO - Image loaded and displayed successfully
+2024-12-07 14:26:10,127 - INFO - Image converted to bytes successfully
+2024-12-07 14:26:15,289 - INFO - Ollama server is running.
+2024-12-07 14:26:15,358 - INFO - llama3.2-vision model is installed.
+2024-12-07 14:26:16,391 - INFO - Loaded default image from C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:16,393 - INFO - File loaded: C:\Users\denni\Documents\ollama_llamavision_OCR_JSON_output\Untitled.png
+2024-12-07 14:26:16,395 - DEBUG - STREAM b'IHDR' 16 13
+2024-12-07 14:26:16,397 - DEBUG - STREAM b'sRGB' 41 1
+2024-12-07 14:26:16,398 - DEBUG - STREAM b'gAMA' 54 4
+2024-12-07 14:26:16,400 - DEBUG - STREAM b'pHYs' 70 9
+2024-12-07 14:26:16,401 - DEBUG - STREAM b'tEXt' 91 24
+2024-12-07 14:26:16,402 - DEBUG - STREAM b'eXIf' 127 182
+2024-12-07 14:26:16,402 - DEBUG - STREAM b'IDAT' 321 56169
+2024-12-07 14:26:16,410 - INFO - Image loaded and displayed successfully
+2024-12-07 14:26:16,426 - INFO - Image converted to bytes successfully

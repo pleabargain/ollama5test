@@ -2,6 +2,8 @@
 
 This is a Streamlit application that demonstrates the use of Llama Vision model for structured image analysis. It's designed to test the new JSON output capabilities of the Llama Vision model by extracting structured information from images.
 
+url
+https://github.com/pleabargain/ollama_llamavision_OCR_JSON_output
 
 
 

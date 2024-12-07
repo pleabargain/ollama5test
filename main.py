@@ -1,3 +1,4 @@
+# main.py
 import streamlit as st
 from ollama import chat
 from dataclasses import dataclass, asdict

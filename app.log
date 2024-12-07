@@ -1,6 +1,6 @@
 2024-12-07 11:48:51,674 - INFO - Initialized CPU monitoring session state
 2024-12-07 11:48:51,675 - INFO - Attempting to get Ollama version
-2024-12-07 11:48:51,724 - INFO - Ollama version: 
+2024-12-07 11:48:51,724 - INFO - Ollama version: a
 2024-12-07 11:48:52,973 - DEBUG - CPU Usage: 7.2%, Memory: 28.3%
 2024-12-07 11:48:52,978 - ERROR - Error loading README.md: 'charmap' codec can't decode byte 0x8f in position 291: character maps to <undefined>
 2024-12-07 11:48:52,979 - INFO - Successfully loaded source code

@@ -1,0 +1,46 @@
+{
+  "image_name": "C:\\Users\\denni\\Documents\\ollama_llamavision_OCR_JSON_output\\Untitled.png",
+  "analysis_time": 33.61265540122986,
+  "timestamp": "2024-12-07T14:23:33.643280",
+  "model": "llama3.2-vision:latest",
+  "system_info": {
+    "os": "Windows",
+    "os_version": "10.0.26100",
+    "processor": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+    "python_version": "3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]",
+    "cpu_cores": 8,
+    "memory_total": "63.82 GB",
+    "memory_available": "32.64 GB",
+    "performance_metrics": {
+      "current_cpu": 8.7,
+      "current_memory": 48.9,
+      "avg_cpu": 13.95,
+      "avg_memory": 49.0,
+      "peak_cpu": 19.2,
+      "peak_memory": 49.1
+    }
+  },
+  "description": {
+    "summary": "A woman with blonde hair wearing a white shirt is shown in the image.",
+    "objects": [
+      {
+        "name": "woman",
+        "confidence": 0.999,
+        "attributes": "blonde hair"
+      },
+      {
+        "name": "shirt",
+        "confidence": 0.998,
+        "attributes": "white shirt"
+      }
+    ],
+    "scene": "text box",
+    "colors": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "time_of_day": "Night",
+    "setting": "Indoor",
+    "text_content": null
+  }
+}
